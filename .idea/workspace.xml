@@ -15,9 +15,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RXJt4PfjAkF1Q1ukf5P0LJcn4g" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/migrate/PureJavaPractice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -34,7 +37,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrintStar">
+  <component name="RunManager" selected="Application.Goh">
     <configuration name="ArrayHomework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day1.ArrayHomework" />
       <module name="FirstProject" />
@@ -61,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Jquery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day1.Jquery" />
+    <configuration name="Goh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day1.Goh" />
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
@@ -102,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Goh" />
         <item itemvalue="Application.PrintStar" />
         <item itemvalue="Application.Boolean" />
         <item itemvalue="Application.StringPractice" />
         <item itemvalue="Application.ArrayHomework" />
-        <item itemvalue="Application.Jquery" />
       </list>
     </recent_temporary>
   </component>
